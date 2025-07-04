@@ -1,0 +1,14 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de ambiente
+.env
+.venvscript
+
+# Ignorar pastas
+/venvscript/
+
+# Ignorar arquivos de configuração
+config.py
+
+

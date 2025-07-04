@@ -1,0 +1,6 @@
+# Bibliotecas necessárias para o projeto
+streamlit
+psycopg2
+requests
+langchain
+langchain-community
