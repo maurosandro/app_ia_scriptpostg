@@ -1,6 +1,9 @@
 # Bibliotecas necessárias para o projeto
 streamlit
-psycopg2
+psycopg2-binary
+pymysql
+pyodbc
 requests
 langchain
 langchain-community
+python-dotenv
